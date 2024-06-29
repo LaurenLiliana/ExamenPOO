@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Name": "Categoría 1",
+    "Products": [
+      {
+        "Id": 1,
+        "Name": "Producto 1",
+        "Quantity": 10,
+        "Price": 50,
+        "CategoryId": 1
+      }
+    ]
+  }
+]
+
