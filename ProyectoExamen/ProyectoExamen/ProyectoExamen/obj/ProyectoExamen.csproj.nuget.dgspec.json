@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laure\\OneDrive\\Documentos\\POO\\Examen 1 - POO\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen.csproj": {}
+    "C:\\Users\\laure\\OneDrive\\Documentos\\Examen 1 - POO\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laure\\OneDrive\\Documentos\\POO\\Examen 1 - POO\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen.csproj": {
+    "C:\\Users\\laure\\OneDrive\\Documentos\\Examen 1 - POO\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laure\\OneDrive\\Documentos\\POO\\Examen 1 - POO\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen.csproj",
+        "projectUniqueName": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen 1 - POO\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen.csproj",
         "projectName": "ProyectoExamen",
-        "projectPath": "C:\\Users\\laure\\OneDrive\\Documentos\\POO\\Examen 1 - POO\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen.csproj",
+        "projectPath": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen 1 - POO\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen.csproj",
         "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laure\\OneDrive\\Documentos\\POO\\Examen 1 - POO\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen\\obj\\",
+        "outputPath": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen 1 - POO\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\laure\\AppData\\Roaming\\NuGet\\NuGet.Config",
